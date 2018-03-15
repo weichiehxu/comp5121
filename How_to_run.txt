@@ -1,0 +1,11 @@
+How to run our codes?
+
+First, make sure the python interpreter is or above 3.6.
+
+Numpy, pandas, scikit-learn and matplotlib are required.
+
+It is highly recommended to use Anaconda’s python interpreter, which has all required packages.
+
+Then run main.py.
+
+If your scikit-learn is below 0.18 version, there may be an error occur. Please update scikit-learn to lateset version.
